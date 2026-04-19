@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Ohio, US",
-  "export_job_id": "c82164ba-9bd9-4ff7-89e1-2d732a8a917a",
+  "export_job_id": "8b3950c7-fbb8-4d6d-b5d8-33360332db2d",
   "github_org": "Beamstation-Datasets",
   "id_short": 915854,
   "location_name": "Ohio",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-ohio-us-sample-915854",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/915854/beamstation_915854_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_pct": 9.4,
+  "sample_pct": 9.89,
   "sample_records": 28,
   "sample_sha256": "92c891377d7102520574cfdc77b13e3e0c284819a262cfca76d99d95d305a68c",
   "sample_size_bytes": 113907,
-  "total_records": 298,
-  "updated_at": "2026-04-08T07:06:43.917935+00:00"
+  "total_records": 283,
+  "updated_at": "2026-04-15T10:34:27.520850+00:00"
 }
