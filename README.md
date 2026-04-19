@@ -9,9 +9,9 @@
 | Dataset ID | `915854` |
 | Location | Ohio |
 | Category | Restaurants |
-| Full dataset size | 298 records |
-| Free sample size | 28 records (9.4%) |
-| Last export | 2026-04-08T07:06:43.917935+00:00 |
+| Full dataset size | 283 records |
+| Free sample size | 28 records (9.89%) |
+| Last export | 2026-04-15T10:34:27.520850+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-ohio-us-sample-915854/releases/download/sample-latest/beamstation_915854_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
