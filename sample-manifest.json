@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8b3950c7-fbb8-4d6d-b5d8-33360332db2d",
+  "export_job_id": "8acc5205-81d7-4155-a2d9-4e7dc578e0fa",
   "id_short": 915854,
-  "published_at": "2026-04-19T07:32:51Z",
+  "published_at": "2026-04-23T07:15:24Z",
   "repo_name": "restaurant-social-ghosts-in-ohio-us-sample-915854",
   "sample_asset_name": "beamstation_915854_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/915854/beamstation_915854_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "92c891377d7102520574cfdc77b13e3e0c284819a262cfca76d99d95d305a68c",
-  "sample_size_bytes": 113907,
-  "total_records": 283
+  "sample_records": 6,
+  "sample_sha256": "0c5798ffb0e810f45122a468b0dff3bcc567bc130e34fcc9163696c58ce5bc75",
+  "sample_size_bytes": 39164,
+  "total_records": 69
 }
