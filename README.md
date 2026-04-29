@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Ohio, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `915854` |
 | Location | Ohio |
 | Category | Restaurants |
-| Full dataset size | 69 records |
-| Free sample size | 6 records (8.7%) |
-| Last export | 2026-04-22T18:22:30.781909+00:00 |
+| Full dataset size | 90 records |
+| Free sample size | 9 records (10.0%) |
+| Last export | 2026-04-29T17:51:28.999756+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-ohio-us-sample-915854/releases/download/sample-latest/beamstation_915854_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
